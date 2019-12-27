@@ -1,0 +1,74 @@
+.navbar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+}
+
+marquee{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(156, 248, 156);
+}
+
+.ta{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.logo{
+    height: 20px;
+    width: 35px;
+}
+
+.tt{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    margin:30px;
+}
+
+.jumbotron{
+    
+    background-image: url("images/dia.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    min-height: 600px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h2{
+    color:white;
+}
+
+.form-horizontal{
+
+    margin:30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+
+.caption{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.f{
+background-image: url("images/nmar.jpg");
+}
+
+.form-group{
+    color:white;
+
+}
+
+.col-md-4{
+    color:white;
+}
+
+.l{
+color:white;
+}

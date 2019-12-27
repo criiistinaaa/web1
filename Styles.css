@@ -1,0 +1,126 @@
+.navbar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+}
+
+marquee{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(156, 248, 156);
+}
+
+.ta{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.logo{
+    height: 20px;
+    width: 35px;
+}
+
+.tt{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    margin:30px;
+}
+
+.jumbotron{
+    
+    background-image: url("images/dia.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    min-height: 600px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    text-align: left;
+    font-size: x-large;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:30px;
+}
+
+img{
+    width: 400px;
+    height:250px;
+    align:center;
+}
+
+.forest {
+    background-image: url("images/forest.jpg");
+        height: 400px; /* You must set a specified height */
+        background-position: center; /* Center the image */
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+}
+h1{
+    color:white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:30px;
+}
+
+.titulo{
+
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background-image: url("images/forest.jpg");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:30px;
+  }
+
+ul {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:30px;
+}
+
+p{
+    font-size:18px;
+    margin-right: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:30px;
+}
+
+.ca{
+    color:white;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:30px;
+}
+
+.tf{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:30px;
+    font-size: x-large;
+
+
+}
+
+.form-horizontal{
+
+    margin:30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+
+.caption{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.f{
+background-image: url("images/nmar.jpg");
+}
